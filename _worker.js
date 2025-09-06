@@ -5,9 +5,9 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = ""; // Ganti dengan domain utama kalian
 const serviceName = ""; // Ganti dengan nama workers kalian
-const apiKey = "Zu9gA84i-WUxtRusT-WfZY8vKoN2LQvRe1Bhbmty"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = "mahrani1239@gmail.com"; // Ganti dengan email yang kalian gunakan
-const accountID = "fc7b8520b1dda5ed061ee85061877ec3";
+const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiEmail = ""; // Ganti dengan email yang kalian gunakan
+const accountID = "";
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
 let proxyIP = "";
